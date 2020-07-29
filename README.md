@@ -1,8 +1,8 @@
 # 2020年
 ## 7月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_01.jpg" />
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_02.jpg" />
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_03.jpg" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_01.jpg" width="242" height="242" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_02.jpg" width="242" height="242" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07_03.jpg" width="242" height="242" />
 
 ## 6月
 <img src="https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/PSN_monthly/202006_SNSChannel_HKTC_1920x1080.jpg" />
