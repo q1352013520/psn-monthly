@@ -1,11 +1,11 @@
 # 2020年
 ## 7月
-![1](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/NBA2k20.jpg)
-![2](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/rise.jpg)
-![3](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/ERICA.jpg)
+<img src="https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/NBA2k20.jpg" />
+<img src="https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/rise.jpg" />
+<img src="https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/20200629_Plus_Anniversary/ERICA.jpg" />
 
 ## 6月
-![](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/PSN_monthly/202006_SNSChannel_HKTC_1920x1080.jpg)
+<img src="https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/PSN_monthly/202006_SNSChannel_HKTC_1920x1080.jpg" />
 
 ## 5月
 ![](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2020/PSN_monthly/202005_SNSChannel_hktwcht_600X338_eDM.jpg)
