@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/02.jpg" width="800" height="450" />
 
 ## 1月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01.jpg" width="800" height="450" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01.png" width="800" height="450" />
 
 # 2019
 ## 12月
