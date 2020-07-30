@@ -1,6 +1,6 @@
 # 2020年
 ## 7月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07.jpg" width="1024" height="576" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/07.png" width="1024" height="576" />
 
 ## 6月
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/06.jpg" width="1024" height="576" />
