@@ -9,18 +9,16 @@
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/05.jpg" width="800" height="450" />
 
 ## 4月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/04.jpg" width="1024" height="576" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/04.jpg" width="800" height="450" />
 
 ## 3月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/03.jpg" width="1024" height="576" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/03.jpg" width="800" height="450" />
 
 ## 2月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/02.jpg" width="1024" height="576" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/02.jpg" width="800" height="450" />
 
 ## 1月
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01_01.jpg" width="242" height="242" />
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01_02.jpg" width="242" height="242" />
-<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01_03.jpg" width="242" height="242" />
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/01.jpg" width="800" height="450" />
 
 # 2019
 ## 12月
