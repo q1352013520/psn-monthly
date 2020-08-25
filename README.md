@@ -25,7 +25,7 @@
 
 # 2019
 ## 12月
-![](https://asia.playstation.com/content/dam/pscom/hk/playstation-network/playstation-plus/201912_SNSChannel1920x1080_Tc.jpg)
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2019/12.jpg" width="800" height="450" />
 
 ## 11月
 ![](https://asia.playstation.com/content/dam/pscom/hk/latest-news/2019/monthlylineup2019/201911_SNSChannel-21920x1080_tc.jpg)
