@@ -1,4 +1,7 @@
 # 2020年
+## 10月
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/10.jpg" width="800" height="450" />
+
 ## 9月
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2020/09.jpg" width="800" height="450" />
 
