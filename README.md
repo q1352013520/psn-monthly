@@ -1,4 +1,7 @@
 # 2021年
+## 6月
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2021/06.png" width="800" height="450" />
+
 ## 5月
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2021/05.png" width="800" height="450" />
 
