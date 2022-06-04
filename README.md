@@ -1,4 +1,10 @@
 # 2022年
+## 6月
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2022/06.png" width="800" height="450" />
+
+## 5月
+<img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2022/05.png" width="800" height="450" />
+
 ## 4月
 <img src="https://raw.githubusercontent.com/q1352013520/psn-monthly/master/2022/04.png" width="800" height="450" />
 
